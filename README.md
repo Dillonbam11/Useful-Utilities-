@@ -1,5 +1,5 @@
 This repository contains bookmarklets all you need to do is copy the code and paste it into the url of a bookmark here is the step by 
-step if you have never done this k8nd of thing before:
+step if you have never done this kind of thing before:
 
 Tutorial:
 
