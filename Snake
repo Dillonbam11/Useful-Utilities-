@@ -1,0 +1,1 @@
+javascript:(()=%3E%7Bconst%20f=document.createElement('iframe');f.src='https://snakebydillon.oneapp.dev/';Object.assign(f.style,%7Bposition:'fixed',inset:'0',width:'100vw',height:'100vh',border:'0',zIndex:'2147483647'%7D);document.body.appendChild(f)%7D)()
